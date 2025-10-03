@@ -20,6 +20,6 @@ let package = Package(
             name: "MXParallaxHeader",
             dependencies: [],
             path: "Sources",
-            publicHeadersPath: ".")
+            publicHeadersPath: "include")
     ]
 )

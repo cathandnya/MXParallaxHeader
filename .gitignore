@@ -35,3 +35,4 @@ Example/MXParallaxHeader.xcworkspace
 *.
 *.
 Example-Swift/MXParallaxHeader-Swift.xcworkspace
+/.build

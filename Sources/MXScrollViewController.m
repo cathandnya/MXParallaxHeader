@@ -22,6 +22,7 @@
 
 #import <objc/runtime.h>
 #import "MXScrollViewController.h"
+#import "MXParallaxHeader.h"
 
 @interface MXScrollViewController ()
 @property (nonatomic, weak) IBOutlet UIView *headerView;

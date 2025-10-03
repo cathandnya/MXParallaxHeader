@@ -21,6 +21,7 @@
 // THE SOFTWARE.
 
 #import "MXScrollView.h"
+#import "MXParallaxHeader.h"
 
 @interface MXScrollViewDelegateForwarder : NSObject <MXScrollViewDelegate>
 @property (nonatomic,weak) id<MXScrollViewDelegate> delegate;
